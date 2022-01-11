@@ -6,6 +6,8 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import SignUp from "./pages/SignUp";
 import NotFound from "./pages/NotFound";
+import "./index.scss";
+import "./index.css";
 
 const App = () => (
   <ChakraProvider theme={theme}>
